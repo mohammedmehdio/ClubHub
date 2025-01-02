@@ -33,10 +33,11 @@ ClubHub is a web platform designed to enable users to sign up and join clubs onl
    - Manage clubs, including creating, modifying, and deleting them.
    - Oversee events and ensure smooth operations.
 
+## LICENSE ⚠️
+This project is licensed under a [Custom License](https://github.com/mohammedmehdio/ClubHub?tab=License-1-ov-file#) designed to prevent unauthorized use. See the `LICENSE` file for details.
+
 ## Project Preview
 ![ClubHub_logo(join_enjoy)](https://github.com/user-attachments/assets/fd5f02c7-9158-4c95-ae7c-10145bfc6ee0)<img src="https://github.com/user-attachments/assets/54ce9c75-cd16-43e9-92e3-31e16230f0ef" height="285px" >
-
-
 
 ### Screenshots
 - **MLD**
